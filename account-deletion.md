@@ -18,7 +18,7 @@ If you have signed in to TimeHunt using your Google or Apple account and would l
 
 ### Option 1 — Email request (all users)
 
-Send an email to **[your-email@example.com]** with the subject line:
+Send an email to **gamexastudio@gmail.com** with the subject line:
 
 > **TimeHunt Account Deletion Request**
 
@@ -49,6 +49,6 @@ This removes all locally stored game progress immediately.
 
 ## Contact
 
-**Email:** [your-email@example.com]  
+**Email:** gamexastudio@gmail.com  
 **App:** TimeHunt  
-**Developer:** [Your Name / Company Name]
+**Developer:** Gamexa Studio
